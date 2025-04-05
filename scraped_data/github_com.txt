@@ -1,0 +1,8477 @@
+Heading: Navigation Menu
+
+Heading: Search code, repositories, users, issues, pull requests...
+
+Heading: Provide feedback
+
+Heading: Saved searches
+
+Heading: Use saved searches to filter your results more quickly
+
+Heading: clementmihailescu/Sorting-Visualizer
+
+Heading: Folders and files
+
+Heading: Latest commit
+
+Heading: History
+
+Heading: Repository files navigation
+
+Heading: Sorting Visualizer
+
+Heading: About
+
+Heading: Resources
+
+Heading: Stars
+
+Heading: Watchers
+
+Heading: Forks
+
+Heading: Releases
+
+Heading: Packages
+      0
+
+Heading: Languages
+
+Heading: Footer
+
+Heading: Footer navigation
+
+Content: Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Sign in
+          
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Code Review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+Code Search
+        Find more, search less
+      
+
+
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+
+By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+    
+
+
+
+
+By use case
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+    
+
+
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+    
+
+
+
+
+
+
+              View all solutions
+              
+
+
+ 
+
+
+
+
+        Resources
+        
+
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+    
+
+
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+    
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+Copilot for business
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+Reseting focus
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        clementmihailescu
+ 
+/
+
+Sorting-Visualizer
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    267
+
+
+
+
+ 
+
+
+          Star
+ 659
+
+
+
+
+
+
+
+
+        Visualization Tool for Sorting Algorithms
+      
+
+
+
+
+
+659
+          stars
+ 
+
+
+
+267
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+6
+
+
+
+
+
+
+Pull requests
+0
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+
+ 
+
+
+
+
+
+clementmihailescu/Sorting-Visualizer
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+   
+
+
+
+
+
+
+
+
+About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2025 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+
+Content: Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Sign in
+          
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Code Review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+Code Search
+        Find more, search less
+      
+
+
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+
+By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+    
+
+
+
+
+By use case
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+    
+
+
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+    
+
+
+
+
+
+
+              View all solutions
+              
+
+
+ 
+
+
+
+
+        Resources
+        
+
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+    
+
+
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+    
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+Copilot for business
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+Reseting focus
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+Content: 
+
+Content: Sign in
+          
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Code Review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+Code Search
+        Find more, search less
+      
+
+
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+
+By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+    
+
+
+
+
+By use case
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+    
+
+
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+    
+
+
+
+
+
+
+              View all solutions
+              
+
+
+ 
+
+
+
+
+        Resources
+        
+
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+    
+
+
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+    
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+Copilot for business
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+Reseting focus
+
+Content: Sign in
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: Sign in
+
+Content: Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Code Review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+Code Search
+        Find more, search less
+      
+
+
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+
+By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+    
+
+
+
+
+By use case
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+    
+
+
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+    
+
+
+
+
+
+
+              View all solutions
+              
+
+
+ 
+
+
+
+
+        Resources
+        
+
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+    
+
+
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+    
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+Copilot for business
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+Reseting focus
+
+Content: Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Code Review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+Code Search
+        Find more, search less
+      
+
+
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+
+By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+    
+
+
+
+
+By use case
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+    
+
+
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+    
+
+
+
+
+
+
+              View all solutions
+              
+
+
+ 
+
+
+
+
+        Resources
+        
+
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+    
+
+
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+    
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+Copilot for business
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+Reseting focus
+
+Content: GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Code Review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+Code Search
+        Find more, search less
+      
+
+
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+Content: GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Code Review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+Code Search
+        Find more, search less
+
+Content: GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Code Review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+Code Search
+        Find more, search less
+
+Content: GitHub Copilot
+        Write better code with AI
+
+Content: GitHub Copilot
+
+Content: GitHub Advanced Security
+        Find and fix vulnerabilities
+
+Content: GitHub Advanced Security
+
+Content: Actions
+        Automate any workflow
+
+Content: Actions
+
+Content: Codespaces
+        Instant dev environments
+
+Content: Codespaces
+
+Content: Issues
+        Plan and track work
+
+Content: Issues
+
+Content: Code Review
+        Manage code changes
+
+Content: Code Review
+
+Content: Discussions
+        Collaborate outside of code
+
+Content: Discussions
+
+Content: Code Search
+        Find more, search less
+
+Content: Code Search
+
+Content: Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+Content: Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+Content: By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+    
+
+
+
+
+By use case
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+    
+
+
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+    
+
+
+
+
+
+
+              View all solutions
+
+Content: By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+    
+
+
+
+
+By use case
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+Content: By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+Content: By use case
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+Content: By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+Content: By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+Content: View all solutions
+
+Content: Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+    
+
+
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+Content: Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+Content: Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+Content: Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+Content: Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+Content: GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+Content: GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+Content: GitHub Sponsors
+        Fund open source developers
+
+Content: GitHub Sponsors
+        Fund open source developers
+
+Content: GitHub Sponsors
+
+Content: The ReadME Project
+        GitHub community articles
+
+Content: The ReadME Project
+        GitHub community articles
+
+Content: The ReadME Project
+
+Content: Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+Content: Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+Copilot for business
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+
+Content: Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+Copilot for business
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+
+Content: Enterprise platform
+        AI-powered developer platform
+
+Content: Enterprise platform
+        AI-powered developer platform
+
+Content: Enterprise platform
+
+Content: Available add-ons
+
+
+
+
+
+
+
+GitHub Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+Copilot for business
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+
+Content: GitHub Advanced Security
+        Enterprise-grade security features
+
+Content: GitHub Advanced Security
+
+Content: Copilot for business
+        Enterprise-grade AI features
+
+Content: Copilot for business
+
+Content: Premium Support
+        Enterprise-grade 24/7 support
+
+Content: Premium Support
+
+Content: Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+Reseting focus
+
+Content: Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips
+
+Content: 
+
+Content: 
+
+Content: Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips
+
+Content: Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips
+
+Content: Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips
+
+Content: Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips
+
+Content: Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+
+Content: Clear
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: Search syntax tips
+
+Content: 
+
+Content: 
+
+Content: Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+Content: Provide feedback
+
+Content: Provide feedback
+
+Content: Provide feedback
+
+Content: 
+
+Content: We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+Content: We read every piece of feedback, and take your input very seriously.
+
+Content: Cancel
+
+    Submit feedback
+
+Content: Saved searches
+      
+Use saved searches to filter your results more quickly
+
+Content: Saved searches
+      
+Use saved searches to filter your results more quickly
+
+Content: Saved searches
+      
+Use saved searches to filter your results more quickly
+
+Content: 
+
+Content: Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+
+Content: 
+
+Content: Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+
+Content: 
+
+Content: Name
+
+Content: Query
+
+Content: To see all available qualifiers, see our documentation.
+
+Content: 
+
+Content: 
+
+Content: Cancel
+
+    Create saved search
+
+Content: Sign in
+
+Content: You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: clementmihailescu
+ 
+/
+
+Sorting-Visualizer
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    267
+
+
+
+
+ 
+
+
+          Star
+ 659
+
+
+
+
+
+
+
+
+        Visualization Tool for Sorting Algorithms
+      
+
+
+
+
+
+659
+          stars
+ 
+
+
+
+267
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+6
+
+
+
+
+
+
+Pull requests
+0
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+
+ 
+
+
+
+
+
+clementmihailescu/Sorting-Visualizer
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+   
+
+
+
+
+
+
+
+
+About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: clementmihailescu
+ 
+/
+
+Sorting-Visualizer
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    267
+
+
+
+
+ 
+
+
+          Star
+ 659
+
+
+
+
+
+
+
+
+        Visualization Tool for Sorting Algorithms
+      
+
+
+
+
+
+659
+          stars
+ 
+
+
+
+267
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+6
+
+
+
+
+
+
+Pull requests
+0
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+
+ 
+
+
+
+
+
+clementmihailescu/Sorting-Visualizer
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+   
+
+
+
+
+
+
+
+
+About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: clementmihailescu
+ 
+/
+
+Sorting-Visualizer
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    267
+
+
+
+
+ 
+
+
+          Star
+ 659
+
+
+
+
+
+
+
+
+        Visualization Tool for Sorting Algorithms
+      
+
+
+
+
+
+659
+          stars
+ 
+
+
+
+267
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+6
+
+
+
+
+
+
+Pull requests
+0
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+Content: clementmihailescu
+ 
+/
+
+Sorting-Visualizer
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    267
+
+
+
+
+ 
+
+
+          Star
+ 659
+
+Content: clementmihailescu
+ 
+/
+
+Sorting-Visualizer
+
+Public
+
+Content: clementmihailescu
+ 
+/
+
+Sorting-Visualizer
+
+Public
+
+Content: Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    267
+
+
+
+
+ 
+
+
+          Star
+ 659
+
+Content: Star
+ 659
+
+Content: Visualization Tool for Sorting Algorithms
+      
+
+
+
+
+
+659
+          stars
+ 
+
+
+
+267
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+Content: Visualization Tool for Sorting Algorithms
+      
+
+
+
+
+
+659
+          stars
+ 
+
+
+
+267
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+Content: Visualization Tool for Sorting Algorithms
+
+Content: 659
+          stars
+ 
+
+
+
+267
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+
+Content: Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+Content: Star
+
+Content: Star
+
+Content: Notifications
+ You must be signed in to change notification settings
+
+Content: Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+Content: Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+Content: Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+Content: Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+Content: clementmihailescu/Sorting-Visualizer
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+   
+
+
+
+
+
+
+
+
+About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+   
+
+
+
+
+
+
+
+
+About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+   
+
+
+
+
+
+
+
+
+About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+   
+
+
+
+
+
+
+
+
+About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+Content: masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+Content: masterBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+Content: 
+
+Content: 
+
+Content: masterBranchesTagsGo to fileCode
+
+Content: masterBranchesTags
+
+Content: master
+
+Content: master
+
+Content: 
+
+Content: master
+
+Content: BranchesTags
+
+Content: 
+
+Content: Go to fileCode
+
+Content: Go to file
+
+Content: 
+
+Content: 
+
+Content: Go to file
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: Folders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all filesRepository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+Content: Folders and filesNameNameLast commit messageLast commit dateLatest commit History9 Commitsclientclient  node_modulesnode_modules  serverserver  .babelrc.babelrc  README.mdREADME.md  index.htmlindex.html  package.jsonpackage.json  webpack.config.jswebpack.config.js  View all files
+
+Content: Last commit message
+
+Content: Last commit date
+
+Content: Latest commit History9 Commits
+
+Content: 
+
+Content: History9 Commits
+
+Content: 
+
+Content: History9 Commits
+
+Content: 
+
+Content: 
+
+Content: client
+
+Content: client
+
+Content: client
+
+Content: client
+
+Content: client
+
+Content: client
+
+Content: client
+
+Content: client
+
+Content: 
+
+Content: 
+
+Content: node_modules
+
+Content: node_modules
+
+Content: node_modules
+
+Content: node_modules
+
+Content: node_modules
+
+Content: node_modules
+
+Content: node_modules
+
+Content: node_modules
+
+Content: 
+
+Content: 
+
+Content: server
+
+Content: server
+
+Content: server
+
+Content: server
+
+Content: server
+
+Content: server
+
+Content: server
+
+Content: server
+
+Content: 
+
+Content: 
+
+Content: .babelrc
+
+Content: .babelrc
+
+Content: .babelrc
+
+Content: .babelrc
+
+Content: .babelrc
+
+Content: .babelrc
+
+Content: .babelrc
+
+Content: .babelrc
+
+Content: 
+
+Content: 
+
+Content: README.md
+
+Content: README.md
+
+Content: README.md
+
+Content: README.md
+
+Content: README.md
+
+Content: README.md
+
+Content: README.md
+
+Content: README.md
+
+Content: 
+
+Content: 
+
+Content: index.html
+
+Content: index.html
+
+Content: index.html
+
+Content: index.html
+
+Content: index.html
+
+Content: index.html
+
+Content: index.html
+
+Content: index.html
+
+Content: 
+
+Content: 
+
+Content: package.json
+
+Content: package.json
+
+Content: package.json
+
+Content: package.json
+
+Content: package.json
+
+Content: package.json
+
+Content: package.json
+
+Content: package.json
+
+Content: 
+
+Content: 
+
+Content: webpack.config.js
+
+Content: webpack.config.js
+
+Content: webpack.config.js
+
+Content: webpack.config.js
+
+Content: webpack.config.js
+
+Content: webpack.config.js
+
+Content: webpack.config.js
+
+Content: webpack.config.js
+
+Content: 
+
+Content: 
+
+Content: View all files
+
+Content: Repository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+Content: Repository files navigationREADMESorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+Content: Repository files navigationREADME
+
+Content: Sorting Visualizer
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+Content: Sorting Visualizer
+
+Content: Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
+
+Content: About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+
+Content: About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+
+Content: About
+
+        Visualization Tool for Sorting Algorithms
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+Activity 
+Stars
+
+
+
+
+659
+      stars 
+Watchers
+
+
+
+
+7
+      watching 
+Forks
+
+
+
+
+267
+      forks 
+
+
+          Report repository
+
+Content: Visualization Tool for Sorting Algorithms
+
+Content: Readme
+
+Content: Activity
+
+Content: 659
+      stars
+
+Content: 7
+      watching
+
+Content: 267
+      forks
+
+Content: Report repository
+
+Content: Releases
+No releases published
+
+Content: Releases
+No releases published
+
+Content: No releases published
+
+Content: Packages
+      0
+
+        No packages published
+
+Content: Packages
+      0
+
+        No packages published
+
+Content: No packages published
+
+Content: 
+
+Content: 
+
+Content: Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+99.7%
+
+
+
+
+
+
+
+Other
+0.3%
+
+Content: 
+
+Content: © 2025 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+
+Content: © 2025 GitHub, Inc.
+
+Content: You can’t perform that action at this time.
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
+Content: 
+
